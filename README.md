@@ -1,2 +1,2 @@
-# learning1
+# QR Code
 Created with CodeSandbox
